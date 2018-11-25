@@ -53,7 +53,7 @@ string text = "none"
 end type
 
 type cb_1 from commandbutton within w_001
-integer x = 370
+integer x = 763
 integer y = 160
 integer width = 457
 integer height = 132
